@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/GiorgosPanagopoulos/GiorgosPanagopoulos/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</p>
 # Hi there, I'm Giorgos! 👋
 
 ### 👨‍💻 Software Engineer
