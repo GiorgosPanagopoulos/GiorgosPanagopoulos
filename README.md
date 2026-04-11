@@ -1,7 +1,8 @@
+<h1 align="center">Hi there, I'm Giorgos! 👋</h1>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/GiorgosPanagopoulos/GiorgosPanagopoulos/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
-# Hi there, I'm Giorgos! 👋
 
 ### 👨‍💻 Software Engineer
 Focused on building scalable backend systems and modern AI-driven applications. Specializing in **RAG architectures** and **LLM integration**.
