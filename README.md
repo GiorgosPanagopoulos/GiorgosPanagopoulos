@@ -18,14 +18,14 @@ Focused on building scalable backend systems and modern full-stack applications.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=GiorgosPanagopoulos&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiorgosPanagopoulos&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=GiorgosPanagopoulos&show_icons=true&theme=tokyonight&hide_border=false" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiorgosPanagopoulos&layout=compact&theme=tokyonight&hide_border=false" />
 </p>
 
 ---
 
 ### 🤝 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/georgios-panagopoulos-9253842ba/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/georgios-panagopoulos-9253842ba)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GiorgosPanagopoulos)
 
 ---
