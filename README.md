@@ -4,8 +4,11 @@
   <img src="https://raw.githubusercontent.com/GiorgosPanagopoulos/GiorgosPanagopoulos/main/profile-pixel-art.png" width="850" alt="Family Coding Pixel Art" />
 </p>
 
-### 👨‍💻 Software Engineer
-Focused on building scalable backend systems and modern AI-driven applications. Specializing in **RAG architectures** and **LLM integration**.
+<p align="center">
+  <b>👨‍💻 Software Engineer</b><br>
+  Focused on building scalable backend systems and modern AI-driven applications.<br>
+  Specializing in <b>RAG architectures</b> and <b>LLM integration</b>.
+</p>
 
 ---
 
