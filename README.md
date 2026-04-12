@@ -37,8 +37,12 @@ Focused on building scalable backend systems and modern AI-driven applications. 
 
 ### 🤝 Connect with me
 <p align="left">
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/georgios-panagopoulos-9253842ba)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GiorgosPanagopoulos)
+<a href="https://www.linkedin.com/in/georgios-panagopoulos-9253842ba" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="https://github.com/GiorgosPanagopoulos" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
 </p>
 
 ---
