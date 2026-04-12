@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Giorgos! 👋</h1>
+<h1 align="center">🕹️ Welcome to Giorgos' Code Maze! 🕹️</h1>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/GiorgosPanagopoulos/GiorgosPanagopoulos/main/profile-pixel-art.png" width="850" alt="Family Coding Pixel Art" />
