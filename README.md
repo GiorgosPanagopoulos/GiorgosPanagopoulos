@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Giorgos! 👋</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/GiorgosPanagopoulos/GiorgosPanagopoulos/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/GiorgosPanagopoulos/GiorgosPanagopoulos/main/profile-pixel-art.png" width="850" alt="Family Coding Pixel Art" />
 </p>
 
 ### 👨‍💻 Software Engineer
@@ -28,10 +28,21 @@ Focused on building scalable backend systems and modern AI-driven applications. 
 
 ---
 
-### 🤝 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/georgios-panagopoulos-9253842ba)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GiorgosPanagopoulos)
+### 🐍 My Coding Activity
+<p align="center">
+  <img src="https://raw.githubusercontent.com/GiorgosPanagopoulos/GiorgosPanagopoulos/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</p>
 
 ---
 
-*“Coding is not just about syntax, it’s about solving real-world problems.”*
+### 🤝 Connect with me
+<p align="left">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/georgios-panagopoulos-9253842ba)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GiorgosPanagopoulos)
+</p>
+
+---
+
+<p align="center">
+  <i>"Coding is not just about syntax, it’s about solving real-world problems."</i>
+</p>
