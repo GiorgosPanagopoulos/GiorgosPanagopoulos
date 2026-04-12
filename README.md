@@ -1,3 +1,17 @@
+
+<h1 align="center">🕹️ Welcome to Giorgos' Code Maze! 🕹️</h1>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/GiorgosPanagopoulos/GiorgosPanagopoulos/main/profile-pixel-art.png" width="850" alt="Family Coding Pixel Art" />
+</p>
+
+<p align="center">
+  <br>
+  <ins><h2>👨‍💻 Software Engineer</h2></ins>
+  <b>Focused on building scalable backend systems and modern AI-driven applications.</b><br>
+  Specializing in <b>RAG architectures</b> and <b>LLM integration</b>.
+</p>
+
 ---
 
 <h3 align="center">🛠️ Tech Stack</h3>
