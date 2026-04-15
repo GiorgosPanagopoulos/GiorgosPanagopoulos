@@ -73,5 +73,5 @@
 ---
 
 <p align="center">
-  <i>"Coding is not just about syntax, it’s about solving real-world problems."</i>
+  <i>"I build things I'd trust with something that matters."</i>
 </p>
